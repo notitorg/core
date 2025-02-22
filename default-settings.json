@@ -1,0 +1,14 @@
+{
+    "app.name": "notit",
+
+    "api.host": "0.0.0.0",
+    "api.port": 5413,
+    "api.environment": "development",
+
+    "db.dialect": "mysql",
+    "db.host": "0.0.0.0",
+    "db.port": 3306,
+    "db.username": "alper",
+    "db.password": "password",
+    "db.database": "default"
+}
